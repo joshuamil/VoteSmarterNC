@@ -1,0 +1,538 @@
+[{
+    "number": 1,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "2017 House Temporary Rules.",
+    "sponsors": ["Lewis"],
+    "attributes": ["Public", ""],
+    "statutes": [""],
+    "keywords": ["ADOPTED", "GENERAL ASSEMBLY", "RESOLUTIONS", "SIMPLE", "RULES", "HOUSE & SENATE"],
+    "votes": {
+      "house": {
+        "date": "01/11/2017 12:47PM",
+        "subject": "R2 For Adoption",
+        "rcsNumber": 1,
+        "aye": 118,
+        "no": 0,
+        "nv": 0,
+        "abs": 2,
+        "excVote": 0,
+        "total": 118,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 6,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Ed. Finance Reform Task Force/PED Report.",
+    "sponsors": ["Horn", "Lucas", "Johnson", "McGrady", "Cleveland", "Dixon", "Hurley", "Iler", "Bert\u00a0Jones", "S.\u00a0Martin", "McNeill", "Riddell", "Warren"],
+    "attributes": ["Public", "Text has changed", "Requests Study"],
+    "statutes": ["120-19, 120-19.1, 120-19.4, 120-3.1, 120-32.02 (Sections)"],
+    "keywords": ["APPOINTMENTS", "BUDGETING", "EDUCATION", "EDUCATION FINANCE TASK FORCE", "ELEMENTARY EDUCATION", "FUNDING", "GENERAL ASSEMBLY", "KINDERGARTEN", "PRESIDENT PRO TEMPORE", "PUBLIC", "REPORTS", "SECONDARY EDUCATION", "SPEAKER", "STUDIES", "TASK FORCES"],
+    "votes": {
+      "house": {
+        "date": "02/23/2017 11:19AM",
+        "subject": "A2 Insko   Third Reading",
+        "rcsNumber": 29,
+        "aye": 43,
+        "no": 68,
+        "nv": 1,
+        "abs": 8,
+        "excVote": 0,
+        "total": 111,
+        "result": "FAIL"
+      },
+      "senate": {
+        "date": "02/23/2017 11:20AM",
+        "subject": "Third Reading",
+        "rcsNumber": 30,
+        "aye": 106,
+        "no": 5,
+        "nv": 1,
+        "abs": 8,
+        "excVote": 0,
+        "total": 111,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 5,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Unemployment Insurance Technical Changes.",
+    "sponsors": ["Howard", "Arp", "Warren", "Setzer"],
+    "attributes": ["Public", "Text has changed", "Roll Call", ""],
+    "statutes": ["96 (Chapter)", "96-1, 96-11.3, 96-11.7, 96-14.1, 96-14.9, 96-15, 96-15.01, 96-9.6, 96-9.7 (Sections)"],
+    "keywords": ["CHAPTERED", "DISASTERS & EMERGENCIES", "INSURANCE", "INSURANCE", "UNEMPLOYMENT", "PRESENTED", "PUBLIC", "RATIFIED", "TAXATION", "UNEMPLOYMENT"],
+    "votes": {
+      "house": {
+        "date": "04/10/2017  7:33PM",
+        "subject": "Second Reading",
+        "rcsNumber": 66,
+        "aye": 45,
+        "no": 0,
+        "nv": 0,
+        "abs": 5,
+        "excVote": 0,
+        "total": 45,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "04/11/2017  3:44PM",
+        "subject": "Third Reading",
+        "rcsNumber": 75,
+        "aye": 43,
+        "no": 0,
+        "nv": 0,
+        "abs": 7,
+        "excVote": 0,
+        "total": 43,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 7,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "LRC/Strengthen Savings Reserve.",
+    "sponsors": ["Dollar", "McGrady", "Arp", "B.\u00a0Richardson", "Cleveland", "Corbin", "Dixon", "Ford", "K.\u00a0Hall", "Horn", "Hurley", "Iler", "S.\u00a0Martin", "McNeill", "Warren"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["142, 143C, 147 (Chapters)", "142-15.4, 142-96, 143C-3-5, 143C-4-2, 143C-5-4, 147-86.11 (Sections)"],
+    "keywords": ["BUDGETING", "CHAPTERED", "FUNDS & ACCOUNTS", "GENERAL ASSEMBLY", "PRESENTED", "PUBLIC", "RATIFIED", "STUDIES"],
+    "votes": {
+      "house": {
+        "date": "03/27/2017  7:14PM",
+        "subject": "Second Reading",
+        "rcsNumber": 44,
+        "aye": 49,
+        "no": 0,
+        "nv": 0,
+        "abs": 1,
+        "excVote": 0,
+        "total": 49,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "03/30/2017 12:00PM",
+        "subject": "M11 Concur",
+        "rcsNumber": 142,
+        "aye": 111,
+        "no": 2,
+        "nv": 6,
+        "abs": 1,
+        "excVote": 0,
+        "total": 113,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 2,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Provide Certain Property Tax Relief.",
+    "sponsors": ["Dollar", "Saine", "Hardister", "R.\u00a0Turner", "Adcock", "J.\u00a0Bell", "Bradford", "Brockman", "Burr", "Corbin", "Dixon", "Fisher", "Grange", "Harrison", "Henson", "Holley", "Hurley", "Iler", "Jackson", "Brenden\u00a0Jones", "S.\u00a0Martin", "McNeill", "Pierce", "Sauls", "Stone", "Strickland", "B.\u00a0Turner", "Warren", "White", "Williams"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["105 (Chapter)", "105-277.1C, 105-277.1E, 105-282.1 (Sections)"],
+    "keywords": ["ARMED FORCES", "EMERGENCY SERVICES", "ENVIRONMENT", "FIREFIGHTERS & FIREFIGHTING", "FORESTRY", "LOCAL GOVERNMENT", "PERSONNEL", "PROPERTY", "PUBLIC", "REAL ESTATE", "TAX EXEMPTIONS", "TAXATION", "TAXES", "PROPERTY", "VETERANS"],
+    "votes": {
+      "house": {
+        "date": "03/29/2017  2:37PM",
+        "subject": "A1 Dollar   Second Reading",
+        "rcsNumber": 127,
+        "aye": 113,
+        "no": 0,
+        "nv": 4,
+        "abs": 3,
+        "excVote": 0,
+        "total": 113,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "03/29/2017  2:39PM",
+        "subject": "Second Reading",
+        "rcsNumber": 128,
+        "aye": 116,
+        "no": 0,
+        "nv": 1,
+        "abs": 3,
+        "excVote": 0,
+        "total": 116,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 8,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Even Yr Municipal Election/Towns of Troy/Star.",
+    "sponsors": ["Burr"],
+    "attributes": ["Local", "Text has changed", ""],
+    "statutes": [""],
+    "keywords": ["CITY COUNCILS", "COUNTIES", "ELECTIONS", "LOCAL", "LOCAL GOVERNMENT", "MAYORS", "MONTGOMERY COUNTY", "MUNICIPALITIES", "SESSION LAWS", "STAR", "TROY"],
+    "votes": {}
+  },
+  {
+    "number": 3,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Eminent Domain.",
+    "sponsors": ["McGrady", "Lewis", "Malone", "Goodman", "Arp", "J.\u00a0Bell", "Boswell", "Burr", "Cleveland", "Conrad", "Corbin", "Dixon", "Ford", "Grange", "K.\u00a0Hall", "Henson", "Horn", "Hurley", "Iler", "Bert\u00a0Jones", "S.\u00a0Martin", "Pittman", "Riddell", "Setzer", "Speciale", "Stone", "Strickland", "Warren", "Williams"],
+    "attributes": ["Public", "Text has changed", "Roll Call", "Affects Constitution", ""],
+    "statutes": ["40A (Chapter)", "40A-3, C-I-to (Sections)"],
+    "keywords": ["CIVIL ACTIONS", "CIVIL PROCEDURE", "CONSTITUTION", "NC", "COURTS", "ELECTIONS", "EMINENT DOMAIN", "PROPERTY", "PUBLIC", "REFERENDUMS & INITIATIVES"],
+    "votes": {
+      "house": {
+        "date": "02/16/2017 09:53AM",
+        "subject": "Second Reading",
+        "rcsNumber": 8,
+        "aye": 106,
+        "no": 7,
+        "nv": 1,
+        "abs": 6,
+        "excVote": 0,
+        "total": 113,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "02/16/2017 09:54AM",
+        "subject": "Third Reading",
+        "rcsNumber": 9,
+        "aye": 104,
+        "no": 9,
+        "nv": 1,
+        "abs": 6,
+        "excVote": 0,
+        "total": 113,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 4,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Fairmont/Voluntary Annexation.",
+    "sponsors": ["Pierce"],
+    "attributes": ["Local", "Text has changed", "Roll Call", ""],
+    "statutes": [""],
+    "keywords": ["ANNEXATION", "COUNTIES", "FAIRMONT", "LOCAL", "LOCAL GOVERNMENT", "MUNICIPALITIES", "PLANNING & ZONING", "ROBESON COUNTY"],
+    "votes": {}
+  },
+  {
+    "number": 9,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Allow Election Day Service - Retired LEOs.",
+    "sponsors": ["Fraley", "Bradford", "Cleveland", "Ford", "Horn", "Hurley", "Iler", "Bert\u00a0Jones", "S.\u00a0Martin", "McNeill", "Pittman", "Speciale", "R.\u00a0Turner"],
+    "attributes": ["Public", ""],
+    "statutes": ["143 (Chapter)", "143-166.42 (Section)"],
+    "keywords": ["BOARDS", "COUNTIES", "ELECTIONS", "ELECTIONS BOARDS", "EMERGENCY SERVICES", "EMPLOYMENT", "LAW ENFORCEMENT", "LAW ENFORCEMENT OFFICERS", "LOCAL GOVERNMENT", "PUBLIC", "RETIREMENT"],
+    "votes": {
+      "house": {
+        "date": "03/06/2017  7:21PM",
+        "subject": "Second Reading",
+        "rcsNumber": 67,
+        "aye": 116,
+        "no": 0,
+        "nv": 1,
+        "abs": 3,
+        "excVote": 0,
+        "total": 116,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 10,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "DHHS Eating Disorder Study.",
+    "sponsors": ["McGrady", "Lewis", "Malone", "Goodman", "J.\u00a0Bell", "Cleveland", "Dixon", "Grange", "K.\u00a0Hall", "Henson", "Hurley", "Iler", "S.\u00a0Martin", "McNeill", "Strickland", "Warren", "Williams"],
+    "attributes": ["Public", "Text has changed", "Requests Study"],
+    "statutes": [""],
+    "keywords": ["DHHS", "DISEASES & HEALTH DISORDERS", "EMINENT DOMAIN", "FOODS & BEVERAGES", "HEALTH SERVICES", "MENTAL HEALTH", "NUTRITION", "PROPERTY", "PUBLIC", "PUBLIC HEALTH", "REPORTS", "STUDIES", "TITLE CHANGE"],
+    "votes": {
+      "house": {
+        "date": "04/20/2017  2:55PM",
+        "subject": "Second Reading",
+        "rcsNumber": 249,
+        "aye": 112,
+        "no": 3,
+        "nv": 2,
+        "abs": 3,
+        "excVote": 0,
+        "total": 115,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 11,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Handicap Parking Privilege Certification.",
+    "sponsors": ["Adcock", "Dobson", "Hardister", "Cunningham", "Belk", "Brockman", "Fisher"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["20 (Chapter)", "20-37.6 (Section)"],
+    "keywords": ["DISABLED PERSONS", "LICENSES & PERMITS", "MOTOR VEHICLES", "NURSING", "PARKING & PARKING STRUCTURES", "PUBLIC"],
+    "votes": {
+      "house": {
+        "date": "03/14/2017  2:38PM",
+        "subject": "A1 Dobson   Second Reading",
+        "rcsNumber": 88,
+        "aye": 118,
+        "no": 0,
+        "nv": 1,
+        "abs": 1,
+        "excVote": 0,
+        "total": 118,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "03/14/2017  2:39PM",
+        "subject": "Second Reading",
+        "rcsNumber": 89,
+        "aye": 114,
+        "no": 4,
+        "nv": 1,
+        "abs": 1,
+        "excVote": 0,
+        "total": 118,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 17,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Office of State Auditor/Corrective Action/PED.",
+    "sponsors": ["Davis", "R.\u00a0Turner", "Cleveland", "Horn", "Hurley", "S.\u00a0Martin", "McNeill", "Pittman"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["147 (Chapter)", "147-64.6E, 147-64.6F (Sections)"],
+    "keywords": ["AUDITING & AUDITS", "COUNCIL OF STATE", "MANAGEMENT", "PUBLIC", "PUBLIC OFFICIALS", "REPORTING", "STATE AUDITOR"],
+    "votes": {
+      "house": {
+        "date": "04/10/2017  6:47PM",
+        "subject": "Second Reading",
+        "rcsNumber": 200,
+        "aye": 114,
+        "no": 0,
+        "nv": 0,
+        "abs": 6,
+        "excVote": 0,
+        "total": 114,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 14,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Community College Boards of Trustees.",
+    "sponsors": ["Burr", "Iler", "J.\u00a0Bell"],
+    "attributes": ["Local", "Text has changed", ""],
+    "statutes": ["115D-12, 120-121 (Sections)"],
+    "keywords": ["APPOINTMENTS", "BOARDS", "COMMUNITY COLLEGE BOARDS", "COMMUNITY COLLEGES", "COUNTIES", "GENERAL ASSEMBLY", "LOCAL", "MONTGOMERY COUNTY", "PRESIDENT PRO TEMPORE", "SPEAKER"],
+    "votes": {
+      "house": {
+        "date": "03/02/2017 11:57AM",
+        "subject": "A4 Jones, Bert   Third Reading",
+        "rcsNumber": 58,
+        "aye": 71,
+        "no": 44,
+        "nv": 2,
+        "abs": 3,
+        "excVote": 0,
+        "total": 115,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "03/02/2017 11:57AM",
+        "subject": "Third Reading",
+        "rcsNumber": 59,
+        "aye": 70,
+        "no": 46,
+        "nv": 1,
+        "abs": 3,
+        "excVote": 0,
+        "total": 116,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 15,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Public Authority/Permanent Plates.",
+    "sponsors": ["Davis", "Iler", "Shepard", "Torbett"],
+    "attributes": ["Public", ""],
+    "statutes": ["20 (Chapter)", "20-84 (Section)"],
+    "keywords": ["DMV", "LICENSE PLATES", "LICENSES & PERMITS", "MOTOR FLEET", "MOTOR VEHICLES", "PUBLIC", "TRANSPORTATION DEPT."],
+    "votes": {
+      "house": {
+        "date": "03/15/2017  2:36PM",
+        "subject": "Second Reading",
+        "rcsNumber": 93,
+        "aye": 92,
+        "no": 25,
+        "nv": 1,
+        "abs": 2,
+        "excVote": 0,
+        "total": 117,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 12,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Community College Boards of Trustees.",
+    "sponsors": ["Burr", "Iler", "J.\u00a0Bell"],
+    "attributes": ["Local", "Text has changed", ""],
+    "statutes": ["115D-12, 120-121 (Sections)"],
+    "keywords": ["APPOINTMENTS", "BOARDS", "COLLEGES & UNIVERSITIES", "COMMUNITY COLLEGE BOARDS", "COMMUNITY COLLEGES", "COUNTIES", "EDUCATION", "GENERAL ASSEMBLY", "HIGHER EDUCATION", "LOCAL", "PRESIDENT PRO TEMPORE", "SESSION LAWS", "SPEAKER", "STANLY COUNTY"],
+    "votes": {
+      "house": {
+        "date": "03/02/2017 11:53AM",
+        "subject": "A3 Turner, B.   Third Reading",
+        "rcsNumber": 56,
+        "aye": 113,
+        "no": 3,
+        "nv": 1,
+        "abs": 3,
+        "excVote": 0,
+        "total": 116,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "03/02/2017 11:55AM",
+        "subject": "Third Reading",
+        "rcsNumber": 57,
+        "aye": 70,
+        "no": 45,
+        "nv": 2,
+        "abs": 3,
+        "excVote": 0,
+        "total": 115,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 16,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Enhance Oversight of Service Contracts/PED.",
+    "sponsors": ["Davis", "Horn", "Lucas", "R.\u00a0Turner", "Cleveland", "Hurley", "S.\u00a0Martin"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["143 (Chapter)", "143-48.3, 143-50.1, 143-50.2, 143-50.3, 143-50.4 (Sections)"],
+    "keywords": ["ADMINISTRATION DEPT.", "CONTRACTS", "PUBLIC"],
+    "votes": {
+      "house": {
+        "date": "03/08/2017  2:48PM",
+        "subject": "Second Reading",
+        "rcsNumber": 76,
+        "aye": 118,
+        "no": 0,
+        "nv": 0,
+        "abs": 2,
+        "excVote": 0,
+        "total": 118,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 13,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Class Size Requirement Changes.",
+    "sponsors": ["McGrady", "Elmore", "Malone", "Corbin", "Adcock", "Belk", "J.\u00a0Bell", "Boles", "Bradford", "Brockman", "Carney", "Cleveland", "Dixon", "Grange", "Harrison", "Henson", "Horn", "Iler", "Johnson", "Brenden\u00a0Jones", "S.\u00a0Martin", "McNeill", "Riddell", "Setzer", "Strickland", "Warren", "Williams"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["115C (Chapter)", "115C-301, 115C-47 (Sections)"],
+    "keywords": ["BOARDS", "CHAPTERED", "COUNCIL OF STATE", "EDUCATION", "EDUCATION BOARDS", "EDUCATION CABINET", "EDUCATION", "STATE BOARD OF", "ELEMENTARY EDUCATION", "GOVERNMENT EMPLOYEES", "KINDERGARTEN", "LOCAL GOVERNMENT", "OCCUPATIONS", "PRESENTED", "PUBLIC", "PUBLIC INSTRUCTION DEPT.", "PUBLIC INSTRUCTION", "SUPT. OF", "PUBLIC OFFICIALS", "RATIFIED", "REPORTING", "SESSION LAWS", "STATE EMPLOYEES", "TEACHERS", "TITLE CHANGE"],
+    "votes": {
+      "house": {
+        "date": "04/27/2017  3:39PM",
+        "subject": "M4 Previous Question",
+        "rcsNumber": 485,
+        "aye": 74,
+        "no": 40,
+        "nv": 1,
+        "abs": 5,
+        "excVote": 0,
+        "total": 114,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "04/27/2017  3:39PM",
+        "subject": "M11 Concur",
+        "rcsNumber": 486,
+        "aye": 112,
+        "no": 3,
+        "nv": 0,
+        "abs": 5,
+        "excVote": 0,
+        "total": 115,
+        "result": "PASS"
+      }
+    }
+  },
+  {
+    "number": 18,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "State Agencies Must Use eProcurement/PED.",
+    "sponsors": ["Davis", "Lucas", "Holley", "Horn", "Hurley"],
+    "attributes": ["Public", ""],
+    "statutes": ["18C, 53, 58, 63A, 108A, 114, 115D, 116, 135, 136, 143, 143B, 147, 148 (Chapters)", "108A-55, 114-9.4, 115D-67.4, 115D-89.4, 116-37, 116-40.6, 135-48.34, 136-89.194, 143-48.3, 143B-139.4B, 143B-431.01, 147-86.72, 148-134, 18C-150, 53-320, 53-326, 53-391, 53-401, 58-10-285, 58-10-315, 58-10-350, 58-33-125, 58-33-130, 58-33-30, 58-56A-10, 58-58-50, 58-65-131, 58-71-40, 58-82A-2.1, 63A-24 (Sections)"],
+    "keywords": ["ADMINISTRATION DEPT.", "CONTRACTS", "INFORMATION TECHNOLOGY", "PUBLIC", "PURCHASING", "SCIENCE & TECHNOLOGY"],
+    "votes": {}
+  },
+  {
+    "number": 19,
+    "chamberOrigin": "House",
+    "session": "2017-2018",
+    "title": "Organizational Meeting/Local Elected Boards.",
+    "sponsors": ["Davis", "Dixon", "Iler", "McNeill"],
+    "attributes": ["Public", "Text has changed", ""],
+    "statutes": ["115C, 130A, 153A, 160A (Chapters)", "115C-41, 130A-56, 153A-39, 160A-70 (Sections)"],
+    "keywords": ["COUNTIES", "COUNTY COMMISSIONERS", "ELECTIONS", "LOCAL GOVERNMENT", "PUBLIC"],
+    "votes": {
+      "house": {
+        "date": "02/22/2017 12:25PM",
+        "subject": "A1 Davis   Third Reading",
+        "rcsNumber": 22,
+        "aye": 111,
+        "no": 1,
+        "nv": 6,
+        "abs": 2,
+        "excVote": 0,
+        "total": 112,
+        "result": "PASS"
+      },
+      "senate": {
+        "date": "02/22/2017 12:26PM",
+        "subject": "Third Reading",
+        "rcsNumber": 23,
+        "aye": 116,
+        "no": 0,
+        "nv": 2,
+        "abs": 2,
+        "excVote": 0,
+        "total": 116,
+        "result": "PASS"
+      }
+    }
+  }
+]
